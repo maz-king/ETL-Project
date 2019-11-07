@@ -18,7 +18,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "fileName = pd.read_csv('../Resources/scrubbed.csv')\n",
+    "fileName = pd.read_csv('/Resources/scrubbed.csv')\n",
     "df = pd.DataFrame(fileName)\n"
    ]
   },
