@@ -1,396 +1,396 @@
-DATE     ,VEHICLE ,ID     ,PAYLOAD             ,MASS(t) ,SITE*     , ORBIT**
-01/18/09 ,Delta 4H,D337   ,NRO L26             ,  6.0?  ,CC 37B    , GEO?
-01/23/09 ,H-2A-202,F15    ,GOSAT (Ibuki)       ,1.98,TA Y1     , LEO/S
-01/30/09 ,Tsyklon ,       ,Koronas-Photon      ,1.92,PL 32/2   , LEO
-02/02/09 ,Safir   ,2,Omid (2)            ,0.025,SE        , LEO
-02/06/09 ,Delta 2-,D338   ,NOAA-N Prime        ,1.44,VA 2W     , LEO/S
-02/10/09 ,Soyuz U ,1740,Progress M66/ISS32P ,7.25,TB 31/6   , LEO/ISS
-02/11/09 ,Proton M,P342   ,Express AM44/MD1    ,3.672,TB 200/39 , GEO
-02/12/09 ,Ariane 5,A545   ,V187/Hotbird 10/NSS ,7.422,KO 3      , GTO
-02/24/09 ,Taurus X,T8     ,OCO                 ,0.407,VA 576E   ,[FTO] (1)
-02/26/09 ,Zenit 3S,LL2    ,Telstar 11N         ,4.012,TB 45/1   , GTO+
-02/28/09 ,Proton K,P343   ,Raduga 1-8          ,2.3,TB 81/24  , GEO
-03/07/09 ,Delta 2-,D339   ,Kepler              ,1.05,CC 17B    , HCO
-03/15/09 ,STS/Disc,       ,STS-119/ISS-15A     ,120.86,KC 39A    , LEO/ISS
-03/17/09 ,Rokot/Br,       ,GOCE                ,1.10,PL 133/3  , LEO/S
-03/24/09 ,Delta 2-,D340   ,GPS 2R-20(M)        ,2.059,CC 17A    , MTO
-03/26/09 ,Soyuz FG,1741,Soyuz TMA-14 (ISS18S,7.25,TB 1/5    , LEO/ISS
-04/03/09 ,Proton M,P344   ,Eutelsat W2A        ,5.9,TB 200/39 , GTO
-04/04/09 ,Atlas 5-,AV016  ,WGS-2               ,5.987,CC 41     , GTO+
-04/05/09 ,Unha 2 (,       ,Kwangmyongsong 2    ,        ,MU        ,[FTO] (2)
-04/14/09 ,CZ-3C   ,CZ3C2  ,Beidou-G2           ,  3.1?  ,XC 2?     , GTO
-04/20/09 ,PSLV-CA ,C12    ,RISAT 2/ANUSAT      ,0.34,SR SLP    , LEO
-04/20/09 ,Zenit 3S,Z3SL42 ,Sircal 1B           ,3.08,OLP       , GTO+
-04/22/09 ,CZ-2C   ,CZ2-32 ,Yaogan 6            ,        ,TY 1      , LEO/S
-04/29/09 ,Soyuz-U ,1742,Kosmos 2450 (Kobal't,        ,PL        , LEO
-05/05/09 ,Delta 2-,D341   ,STSS-ATRR           ,        ,VA 2W     , LEO/P
-05/07/09 ,Soyuz-U ,1743,Progress M-02M/ISS33,7.12,TB 5/1    , LEO/ISS
-05/11/09 ,STS/Atla,       ,STS-125/HST-SM04    ,119.82,KC 39A    , LEO
-05/14/09 ,Ariane 5,A546   ,V188/Herschel/Plank ,5.32,KO 3      , HTO
-05/16/09 ,Proton M,P345   ,ProtoStar 2         ,4.00,TB 200/39 , GTO+
-05/19/09 ,Minotaur,8,TacSat 3            ,0.4,WI 0-B    , LEO
-05/21/09 ,Soyuz 2-,1744,Meridan 2           ,        ,PL 43/4   ,[EEO] (3)
-05/27/09 ,Soyuz FG,1745,Soyuz TMA 15        ,7.25,TB 1/5    , LEO/ISS
-06/18/09 ,Atlas 5-,AV020  ,LRO/LCROSS          ,2.81,CC 41     , HTO
-06/21/09 ,Zenit 3S,LL3    ,Measat 3a           ,2.37,TB 45/1   , GTO+
-06/27/09 ,Delta 4M,D342   ,GOES O              ,3.21,CC 37B    , GTO+
-06/30/09 ,Proton M,P346   ,Sirius FM5          ,5.82,TB 200/39 , GTO+
-07/01/09 ,Ariane 5,A547   ,V189/TerreStar 1    ,6.91,KO 3      , GTO
-07/06/09 ,Rokot/Br,       ,Kosmos 2451-53      ,0.675,PL 133/3  , LEO
-07/14/09 ,Falcon 1,F1-5   ,RazakSAT            ,0.18,KW        , LEO
-07/15/09 ,STS/Ende,       ,STS-127/ISS 2J/A    ,120.00,KC 39A    , LEO/ISS
-07/21/09 ,Kosmos 3,       ,Parus/Sterkh 1      ,0.98,PL 132/1  , LEO
-07/24/09 ,Soyuz U ,1746,Progress M-67 (ISS 3,7.285,TB 1/5    , LEO/ISS
-07/29/09 ,Dnepr   ,13,"6 sats (Dubaisat 1, ",0.423,TB 109/95 , LEO/S
-08/11/09 ,Proton M,P347   ,Asiasat 5           ,3.76,TB 200/39 , GTO+
-08/17/09 ,Delta 2-,D343   ,GPS 2R-21(M)        ,2.059,CC 17A    , MTO
-08/21/09 ,Ariane 5,A548   ,V190/JCSAT 12/Optus ,4.5,KO 3      , GTO
-08/25/09 ,KSLV-1  ,KSLV1  ,STSAT-2             ,0.1,NA        ,[FTO] (4)
-08/29/09 ,STS/Disc,       ,STS-128/ISS 17A/MLPM,121.42,KC 39A    , LEO/ISS
-08/31/09 ,CZ-3B   ,CZ3B12 ,Palapa D1           ,4.1,XC 2      ,[EEO] (5)
-09/08/09 ,Atlas 5-,AV018  ,PAN                 ,        ,CC 41     , GTO+
-09/10/09 ,H-2B    ,TF1    ,HTV 1               ,16.0,TA Y2     , LEO/ISS
-09/17/09 ,Soyuz 2-,1747,Meteor M1 +6microsat,2.7,TB 31/6   , LEO/S
-09/17/09 ,Proton M,P348   ,Nimiq 5             ,4.745,TB 200/39 , GTO+
-09/23/09 ,PSLV-CA ,C14    ,Oceansat 2          , ~1.0   ,SR FLP    , LEO/S
-09/25/09 ,Delta 2-,D344   ,STSS Demo           ,2.244,CC 17B    , LEO
-09/30/09 ,Soyuz-FG,1748,Soyuz TMA-16        ,7.25,TB 1/5    , LEO/ISS
-10/01/09 ,Ariane 5,A549   ,V191/Amazonas 2/GMS ,8.0,KO 3      , GTO
-10/08/09 ,Delta 2-,D345   ,Worldview 2         ,2.615,VA 2W     , LEO/S
-10/15/09 ,Soyuz U ,1749,Progress M-03M      ,7.2,TB 5/1    , LEO/ISS
-10/18/09 ,Atlas 5-,AV017  ,DMSP F18            ,1.2,VA 3E     , LEO/S
-10/29/09 ,Ariane 5,A550   ,V-192/NSS 12/Thor 6 ,8.675,KO 3      , GTO
-11/02/09 ,Rokot/Br,       ,SMOS/PROBA-2        ,0.695,PL 133/3  , LEO/S
-11/10/09 ,Soyuz U ,1750,Progress M-MRM2     ,7.1,TB 1/5    , LEO/ISS
-11/12/09 ,CZ-2C   ,CZ2-33 ,Shijian 11-01       ,        ,JQ 4/L    , LEO/S
-11/16/09 ,STS-Atla,       ,STS-129/ISS-ULF3    ,120.00,KC 39A    , LEO/ISS
-11/20/09 ,Soyuz U ,1751,Kosmos 2455 (Lotos-s,  6.9?  ,PL 16/2   , LEO
-11/23/09 ,Atlas 5-,AV024  ,Intelsat 14         ,5.614,CC 41     , GTO+
-11/24/09 ,Proton M,P349   ,Eutelsat W7         ,5.627,TB 200/39 , GTO+
-11/28/09 ,H-2A-202,F16    ,IGS Optics 3        ,        ,TA Y1     , LEO/S
-11/30/09 ,Zenit 3S,LL4    ,Intelsat 15         ,2.484,TB 45/1   , GTO+
-12/06/09 ,Delta 4M,D346   ,WGS-3               ,6.0,CC 37B    , GTO+
-12/09/09 ,CZ-2D   ,CZ2-34 ,Yaogan 7            ,        ,JQ 4/L    , LEO/S
-12/14/09 ,Proton M,P350   ,3xGlonass M         ,4.25,TB 81/24  , MEO
-12/14/09 ,Delta 2-,D347   ,WISE                ,0.674,VA 2W     , LEO/S
-12/15/09 ,CZ-4C   ,CZ4-18 ,Yaogan 8            ,1.04,TY 2      , LEO/S
-12/18/09 ,Ariane 5,A551   ,V193/Helios 2B      ,4.2,KO 3      , LEO/S
-12/20/09 ,Soyuz FG,1752,Soyuz TMA-17        ,7.25,TB 1/5    , LEO/ISS
-12/28/09 ,Proton M,P351   ,DirecTV 12          ,5.90,TB 200/39 , GTO+
-01/16/10 ,CZ-3C           ,CZ3C3  ,Beidou ,         ,XC 2      , GTO
-01/28/10 ,Proton M/Briz M ,P352   ,Raduga ,2.3,TB 81/24  , GEO
-02/03/10 ,Soyuz-U         ,1753,Progres,7.4,TB 1/5    , LEO/ISS
-02/08/10 ,STS/Endeavour   ,OV105  ,STS130/,110.0,KC 39A    , LEO/ISS
-02/11/10 ,Atlas 5-401     ,AV021  ,SDO (NA,3.1,CC 41     , GTO
-02/12/10 ,Proton M/Briz M ,P353   ,Intelsa,2.06,TB 200/39 , GEO
-03/01/10 ,Proton M/DM-2   ,P354   ,3xGlona,4.5,TB 81/24  , MEO
-03/04/10 ,"Delta 4M+4,2    ",D348   ,GOES P ,3.24,CC37B     , GTO+
-03/05/10 ,CZ-4C           ,CZ4C6  ,Yaogan ,  2.8?   ,JQ 4L     , LEO
-03/20/10 ,Proton M/Briz M ,P355   ,Echosta,6.38,TB 200/39 , GTO
-04/02/10 ,Soyuz-FG        ,1754,Soyuz T,7.2,TB 1/5    , LEO/ISS
-04/05/10 ,STS/Discovery   ,OV103  ,STS131/,110.0,KC 39A    , LEO/ISS
-04/08/10 ,Dnepr           ,D-14   ,CryoSat,0.72,TB 109/95 , LEO/P
-04/15/10 ,GSLV Mk2        ,GSLVD3 ,GSAT 4 ,2.22,SR 2      ,[FTO][1]
-04/16/10 ,Soyuz-U         ,1755,Kosmos ,         ,PL ??     , LEO
-04/22/10 ,Atlas 5-501     ,AV012  ,OTV (X-,4.99,CC 41     , LEO
-04/24/10 ,Proton M/Briz M ,P356   ,SES 1  ,2.56,TB 200/39 , GEO
-04/27/10 ,Kosmos 3M       ,       ,Kosmos ,         ,PL 132/1  , LEO
-04/28/10 ,Soyuz U         ,1756,Progres,7.4,TB 1/5    , LEO/ISS
-05/14/10 ,STS/Atlantis    ,OV104  ,STS-132,110.0,KC 39A    , LEO/ISS
-05/20/10 ,H-2A-202        ,F17    ,Akatsuk,0.81,TA 1      , HCO [2]
-05/21/10 ,Ariane 5 ECA    ,L551   ,V194/As,7.97,KO 3      , GTO
-05/28/10 ,"Delta 4M+4,2    ",D349   ,GPS 2F-,1.63,CC 37B    , MEO [3]
-06/02/10 ,Rokot/Briz KM   ,       ,Servis ,0.9,PL 133/3  , LEO/S
-06/02/10 ,CZ-3C           ,CZ3C4  ,Beidou ,         ,XC 2      , GTO
-06/03/10 ,Proton M/Briz M ,P357   ,Badr 5 ,5.42,TB 200/39 , GTO+
-06/04/10 ,Falcon 9        ,F9-1   ,Dragon ,  ?      ,CC 40     , LEO [4]
-06/10/10 ,KSLV-1          ,F2     ,STSAT 2,0.099,NA        ,[FTO][5]
-06/15/10 ,CZ-2D           ,CZ2D12 ,SJ-12  ,         ,JQ 4/L    , LEO/S
-06/15/10 ,Dnepr           ,D-15   ,Prisma/,         ,DO        , LEO
-06/15/10 ,Soyuz FG        ,1757,Soyuz T,7.2,TB 1/5    , LEO/ISS
-06/21/10 ,Dnepr           ,D-16   ,TanDEM-,1.35,TB 109/95 , LEO/S
-06/22/10 ,Shavit-2        ,       ,Ofek 9 ,0.30,PA        , LEO
-06/26/10 ,Ariane 5 ECA    ,L552   ,V195/Ar,7.4,KO 3      , GTO
-06/30/10 ,Soyuz U         ,1758,Progres,7.25,TB 1/5    , LEO/ISS
-07/10/10 ,Proton M/Briz M ,P358   ,Echosta,5.52,TB 200/39 , GTO+
-07/12/10 ,PSLV-CA         ,C-15   ,Cartosa,0.82,SR 1      , LEO/S
-07/31/10 ,CZ-3A           ,CZ3A17 ,Beidou ,         ,XC 3      , GTO/i
-08/04/10 ,Ariane 5 ECA    ,L554   ,V196/Ra,6.25,KO 3      , GTO
-08/09/10 ,CZ-4C           ,CZ4C7  ,Yaogan ,  2.7?   ,TY 2      , LEO/S
-08/14/10 ,Atlas 5-531     ,AV019  ,AEHF1  ,6.17,CC 41     , GTO+
-08/24/10 ,CZ-2D           ,CZ2D13 ,Tianhui,         ,JQ 4/L    , LEO/S
-09/02/10 ,Proton M/DM-2   ,P359   ,3xGlona,4.25,TB 81/24  , MEO
-09/04/10 ,CZ-3B           ,CZ3B13 ,Chinasa, ~5.00   ,XC 2      , GTO+
-09/08/10 ,Rokot/Briz KM   ,       ,Gonets ,0.84,PL 133/3  , LEO
-09/10/10 ,Soyuz U         ,1759,Progres,7.16,TB 31/6   , LEO/ISS
-09/11/10 ,H2A-202         ,F18    ,Michibi, ~4.00   ,TA 1      , GTO/i
-09/21/10 ,Atlas 5-501     ,AV025  ,NROL-41,         ,VA 3E     , LEO
-09/22/10 ,CZ-2D           ,CZ2D14 ,Yaogan ,         ,JQ 4/L    , LEO/S
-09/26/10 ,Minotaur 4      ,MT4-2  ,SBSS   ,1.03,VA 8      , LEO/S [6]
-09/30/10 ,Molniya-M       ,1760,Kosmos ,2.4,PL 16/2   , EEO/M [7]
-10/01/10 ,CZ-3C           ,CZ3C5  ,Chang'e,2.5,XC 2      , HTO [8]
-10/06/10 ,CZ-4B           ,CZ4B17 ,Shijian, ~2.0    ,TY 2      , LEO/S
-10/07/10 ,Soyuz FG        ,1761,Soyuz T,7.2,TB 1/5    , LEO/ISS
-10/14/10 ,Proton M/Briz M ,P360   ,Sirius ,5.98,TB 81/24  , GTO+
-10/19/10 ,Soyuz 2-1a/Frega,1762,ST22/6x,4.2,TB 31/6   , LEO
-10/27/10 ,Soyuz U         ,1763,Progres,7.29,TB 1/5    , LEO/ISS
-10/28/10 ,Ariane 5-ECA    ,A555   ,V197/W3,7.43,KO 3      , GTO
-10/31/10 ,CZ-3C           ,CZ3C6  ,Beidou ,         ,XC 2      , GTO
-11/02/10 ,Soyuz 2-1a/Frega,1764,Meridia, ~2.0    ,PL 43/4   , EEO/M
-11/04/10 ,CZ-4C           ,CZ4C8  ,FY-3B  ,2.3,TY 2      , LEO/S
-11/06/10 ,Delta 2-7420-10 ,D350   ,COSMO-S,1.9,VA 2W     , LEO/S
-11/14/10 ,Proton M/Briz M ,P361   ,Skyterr,5.36,TB 200/39 , GTO+
-11/20/10 ,Minotaur 4      ,MT4-3  ,STP S26,0.59,KD 1      , LEO/S
-11/21/10 ,Delta 4 Heavy   ,D351   ,NROL 32,         ,CC 37B    , GEO?
-11/24/10 ,CZ-3A           ,CZ3A18 ,Zhongxi,         ,XC 3      , GTO+
-11/26/10 ,Ariane 5 ECA    ,A556   ,V198/In,8.08,KO 3      , GTO
-12/05/10 ,Proton M/DM-03  ,P362   ,3xGlona,4.245,TB 81/24  ,[FTO] [9]
-12/08/10 ,Falcon 9        ,F9-2   ,Dragon , ~5.5?   ,CC 40     , LEO [10]
-12/15/10 ,Soyuz FG        ,1765,Soyuz T,7.2,TB 1/5    , LEO/ISS
-12/17/10 ,CZ-3A           ,CZ3A19 ,Beidou ,         ,XC 3      , GTO/i
-12/25/10 ,GSLV Mk1        ,F06    ,GSAT-5P,2.31,SR 2      ,[FTO] [11]
-12/26/10 ,Proton M/Briz M ,P363   ,KA-SAT ,6.15,TB 200/39 , GTO+
-12/29/10 ,Ariane 5 ECA    ,A557   ,V199/Hi,6 8.17   ,KO 3      , GTO
-01/20/11 ,Zenit 3F/FregatSB ,Z3F01  ,Electro-L       ,1.74,TB 45/1   , GEO
-01/20/11 ,Delta 4H          ,D352   ,NRO L49         ,  15.0?   ,VA 6      , LEO/S
-01/22/11 ,H-2B              ,F02    ,HTV-2           ,16.0,TA 2      , LEO/ISS
-01/28/11 ,Soyuz-U           ,1766,Progress M-09M  ,7.3,TB 1/5    , LEO/ISS
-02/01/11 ,Rokot/Briz KM     ,       ,GEO-IK-2-11     ,          ,PL 133/3  ,[LEO][1]
-02/06/11 ,Minotaur 1        ,MT1-9  ,NROL-66         ,  ~0.3    ,VA 8      , LEO/S?
-02/16/11 ,Ariane 5ES        ,L544   ,ATV-2           ,19.7,KO 3      , LEO/ISS
-02/24/11 ,STS/Discovery     ,STS133 ,ULF-5           ,~100.0    ,KC 39A    , LEO/ISS
-02/26/11 ,Soyuz 2-1b/Fregat ,1767,Glonass-K       ,0.94,PL 43/4   , MEO
-03/04/11 ,Taurus XL 3110    ,T9     ,Glory           ,0.54,VA 576E   ,[FTO][2]
-03/05/11 ,Atlas 5-501       ,AV026  ,X-37B OTV-2     ,  ~5.3    ,CC 41     , LEO
-03/11/11 ,"Delta 4M+4,2      ",D353   ,NROL-27         ,          ,CC 37B    , GEO?
-04/04/11 ,Soyuz-FG          ,1768,Soyuz TMA-21    ,7.3,TB 1/5    , LEO/ISS
-04/09/11 ,CZ-3A             ,CZ3A20 ,Beidou 8        ,          ,XC 3      , GTO/i
-04/15/11 ,Atlas 5-411       ,AV027  ,NROL-34         ,          ,VA 3E     , LEO
-04/20/11 ,PSLV              ,C-16   ,ResourceSat-2   ,1.4,SR FLP    , LEO/S
-04/22/11 ,Ariane 5 ECA      ,L558   ,VA201/Yahsat1A/I,ND 8.97   ,KO 3      , GTO
-04/27/11 ,Soyuz-U           ,1769,Progress M-10M  ,7.3,TB 1/5    , LEO/ISS
-05/04/11 ,Soyuz 2-1A/Fregat ,1770,Meridian        ,          ,PL 43/4   , EEO/M
-05/07/11 ,Atlas 5-401       ,AV022  ,SBIRS GEO1      ,4.83,CC 41     , GTO
-05/16/11 ,STS/Endeavour     ,STS134 ,ULF-6           ,~100.0    ,KC 39A    , LEO/ISS
-05/20/11 ,Proton M/Briz M   ,P364   ,Telstar 14R     ,5.0,TB 200/39 , GTO+
-05/20/11 ,Ariane 5 ECA      ,L559   ,VA202/ST2/GSAT 8,8.19,KO 3      , GTO
-06/07/11 ,Soyuz FG          ,1771,Soyuz TMA-02M   ,7.2,TB 1/5    , LEO/ISS
-06/10/11 ,Delta 2-7320      ,D354   ,SAC-D/Aquarius  ,1.35,VA 2W     , LEO/S
-06/15/11 ,Safir             ,3,Rassad          ,0.015,SE        , LEO
-06/20/11 ,CZ-3B             ,CZ3B14 ,Zhongxing 10    ,  ~5.1    ,XC 2      , GTO+
-06/21/11 ,Soyuz-U           ,1772,Progress M-11M  ,7.3,TB 1/5    , LEO/ISS
-06/27/11 ,Soyuz-U           ,1773,Kosmos 2472 (Kob,          ,PL 16/2   , LEO
-06/30/11 ,Minotaur 1        ,MT1-10 ,ORS 1           ,0.434,WI 0B     , LEO
-07/06/11 ,CZ-2C             ,CZ2C33 ,SJ 11-03        ,          ,JQ 4L     , LEO/S
-07/08/11 ,STS/Atlantis      ,OV104  ,STS-135/ULF-7   ,~100.0    ,KC 39A    , LEO/ISS
-07/11/11 ,CZ-3C             ,CZ3C7  ,TL I-01         ,          ,XC 2      , GTO/+
-07/13/11 ,Soyuz 2-1a/Fregat ,ST23   ,6xGlobalstar-2  ,3.9,TB 31/6   , LEO
-07/15/11 ,PSLV-XL           ,C-17   ,GSAT-12         ,1.41,SR SLP    , GTO-
-07/15/11 ,Proton M/Briz M   ,P365   ,SES-3/Kazsat 2  ,4.382,TB 200/39 , GTO/GEO[3]
-07/16/11 ,"Delta 4M+4,2      ",D355   ,GPS 2F-2        ,1.542,CC 37B    , MEO
-07/18/11 ,Zenit 3F/FregatSB ,Z2F02  ,Spektr-R        ,3.66,TB 45/1   , EEO
-07/26/11 ,CZ-3A             ,CZ3A21 ,Beidou 9 (2-I4) ,          ,XC 3      , GTO/i
-07/29/11 ,CZ-2C             ,CZ2C34 ,ShiJian 11-02   ,          ,JQ 4L     , LEO/S
-08/05/11 ,Atlas 5-551       ,AV029  ,Juno            ,3.625,CC 41     , HCO [4]
-08/06/11 ,Ariane 5 ECA      ,L560   ,VA203/Astra 1N/B,8.26,KO 3      , GTO
-08/11/11 ,CZ-3B             ,CZ3B15 ,Paksat 1R       ,4.99,XC 2      , GTO+
-08/15/11 ,CZ-4B             ,CZ4B13 ,Haiyang 2       ,          ,TY 2      , LEO/S
-08/17/11 ,Dnepr             ,17,Multipayload    ,          ,DO        , LEO/S
-08/17/11 ,Proton M/Briz M   ,P366   ,Express AM4     ,5.775,TB 200/39 ,[EEO][5]
-08/18/11 ,CZ-2C             ,CZ2C35 ,ShiJian 11-04   ,          ,JQ 4L     ,[FTO][6]
-08/24/11 ,Soyuz U           ,1775,Progress M-12M  ,7.3,TB 1/5    ,[FTO][7]
-09/10/11 ,Delta 2-7920H     ,D356   ,GRAIL A/B       ,0.614,CC 17B    , EEO [8]
-09/18/11 ,CZ-3B             ,CZ3B16 ,Chinasat 1A     ,5.2,XC 2      , GTO
-09/20/11 ,Proton M/Briz M   ,P367   ,Kosmos 2473 (Gar,          ,TB 81/24  , GTO
-09/21/11 ,Ariane 5 ECA      ,L561   ,VA204/Arabsat 5C,7.85,KO 3      , GTO
-09/23/11 ,H-2A-202          ,F19    ,IGS-Optical 4   ,          ,TA 1      , LEO/S
-09/24/11 ,Zenit 3SL/DM-SL   ,SL-39  ,Atlantic Bird 7 ,4.60,PO OLP    , GTO+
-09/27/11 ,Minotaur 4+       ,MT4-5  ,TacSat 4        ,0.45,KD        , EEO [9]
-09/29/11 ,CZ-2FT1           ,CZ2FT1 ,Tiangong 1      ,8.5,JQ SLS R  , LEO
-09/29/11 ,Proton M/Briz M   ,P368   ,QuetzSat 1      ,5.514,TB 200/39 , GTO
-10/02/11 ,Soyuz 2-1b/Fregat ,1776,Glonass M       ,1.414,PL 43/4   , MEO
-10/05/11 ,Zenit 3SLB/DMSLB  ,LL-5   ,Intelsat 18     ,3.2,TB 45/1   , GTO+
-10/07/11 ,CZ-3B             ,CZ3B17 ,W3C             ,5.4,XC 2      , GTO
-10/12/11 ,PSLV-CA           ,C-18   ,Mega-Tropiques  ,1.047,SR FLP    , LEO
-10/19/11 ,Proton M/Briz M   ,P369   ,ViaSat 1        ,6.74,TB 200/39 , GTO
-10/21/11 ,Soyuz 2-1b/Fregat ,1777,VS-01/2xGalileo ,1.4,KO SLS    , MEO
-10/28/11 ,Delta 2-7920-10   ,D357   ,NPP             ,1.97,V 2W      , LEO/S
-10/30/11 ,Soyuz U           ,1778,Progress M-13M (,7.3,TB 1/5    , LEO/ISS
-10/31/11 ,CZ-2F             ,CZ2F8  ,Shenzhou 8      ,8.08,JQ SLS R  , LEO
-11/04/11 ,Proton M/Briz M   ,P370   ,3xGlonass-M     ,4.245,TB 81/24  , MEO
-11/08/11 ,Zenit 2SB         ,       ,Phobos-Grunt    ,13.15,TB 45/1   , LEO [10]
-11/09/11 ,CZ-4B             ,CZ4B14 ,Yaogan 12       ,          ,TY 2      , LEO/S
-11/14/11 ,Soyuz FG          ,1779,Soyuz TMA-22    ,7.2,TB 1/5    , LEO/ISS
-11/20/11 ,CZ-2D             ,CZ2D15 ,Chuangxin 1-03/S,          ,JQ SLS L  , LEO/S
-11/25/11 ,Proton M/Briz M   ,P371   ,AsiaSat 7       ,3.813,TB 200/39 , GTO+
-11/26/11 ,Atlas 5-541       ,AV028  ,Mars Science Lab,3.839,CC 41     , HCO [11]
-11/27/11 ,Soyuz 2-1B/Fregat ,1780,Glonass-M       ,1.414,PL 43/4   , MEO
-11/29/11 ,CZ-2C             ,CZ2C36 ,Yaogan 13       ,          ,TY 2      , LEO/S
-12/01/11 ,CZ-3A             ,CZ3A22 ,Beidou 10 (2-I5),          ,XC 3      , GTO/i
-12/11/11 ,Proton M/Briz M   ,P372   ,Luch 5A/Amos 5  ,2.73,TB 81/24  , GTO+
-12/12/11 ,H-2A-202          ,F20    ,IGS-Radar 3     ,          ,TA 1      , LEO/S
-12/17/11 ,Soyuz 2-1a/Fregat ,1781,VS-02/6sats     ,2.1,KO SLS    , LEO/S
-12/17/11 ,CZ-3B             ,CZ3B18 ,NigComSat 1R    ,5.15,XC 2      , GTO
-12/21/11 ,Soyuz FG          ,1782,Soyuz TMA-03M   ,7.2,TB 1/5    , LEO/ISS
-12/22/11 ,CZ-4B             ,CZ4B15 ,Ziyuan I-02C    ,2.1,TY 2      , LEO/S
-12/23/11 ,Soyuz 2-1b/Fregat ,1783,Meridian        ,          ,PL 43/4   ,[FTO][12]
-12/28/11 ,Soyuz 2-1a/Fregat ,1784,ST24/6xGlobalsta,4.2,TB 31/6   , LEO
-01/09/12 ,CZ-4B            ,CZ4B16  ,Ziyuan 3              ,2.65,TY 2      , LEO/S
-01/13/12 ,CZ-3A            ,CZ3A23  ,Fengyun 2-07(F)       ,        ,XC 3      , GTO
-01/20/12 ,"Delta 4M+5,4     ",D358?   ,WGS 4                 ,5.988,CC 37B    , GTO+
-01/25/12 ,Soyuz U          ,1785,Progress M-14M        ,7.2,TB 1/5    , LEO/ISS
-02/03/12 ,Safir            ,ERS2002 ,Navid-e Elm-o Sanat   ,0.05,SE        , LEO
-02/13/12 ,Vega             ,VV01    ,LARES/ALMAsat         ,0.42,KO ZLV    , LEO
-02/14/12 ,Proton M/Briz M  ,P373    ,SES 4                 ,6.18,TB 200/39 , GTO
-02/24/12 ,CZ-3C            ,CZ3C8   ,Beidou 11 (2G5)       ,3.8,XC 2      , GTO
-02/24/12 ,Atlas 5-551      ,AV030   ,MUOS 1                ,6.8,CC 41     , GTO
-03/23/12 ,Ariane 5 ES      ,L553    ,VA205/ATV-3           ,19.714,KO 3      , LEO/ISS
-03/25/12 ,Proton M/Briz M  ,P374    ,Intelsat 22           ,6.199,TB 200/39 , GTO+
-03/30/12 ,Proton K/DM-2    ,P375    ,Kosmos 2479           ,2.6,TB 81/24  , GEO
-03/31/12 ,CZ-3B/E          ,CZ3B19  ,Apstar 7              ,5.054,XC 2      , GTO
-04/03/12 ,"Delta 4M+5,2     ",D359?   ,NROL-25               ,        ,VA 6      , LEO/r
-04/12/12 ,Unha (Unha 3)    ,Unha3   ,Kwangmyongsong 3      ,0.1,SO        ,[FTO][1]
-04/20/12 ,Soyuz U          ,1786,Progress M-15M        ,7.2,TB 31/6   , LEO/ISS
-04/23/12 ,Proton M/Briz M  ,P376    ,Yahsat 1B             ,6.05,TB 200/39 , GTO+
-04/26/12 ,PSLV-XL          ,C19     ,Risat 1               ,1.858,SR FLP    , LEO/S
-04/30/12 ,CZ-3B            ,CZ3B20  ,Compass M3/M4         ,~4.0    ,XC 2      , MTO
-05/04/12 ,Atlas 5-531      ,AV031   ,AEHF 2                ,6.17,CC 41     , GTO+
-05/06/12 ,CZ-2D            ,CZ2D16  ,Tianhui I-02          ,        ,JQ 4L     , LEO/S
-05/10/12 ,CZ-4B            ,CZ4B17  ,Yaogan 14/Tiantuo 1   ,        ,TY 2      , LEO/S
-05/15/12 ,Soyuz FG         ,1787,Soyuz TMA-04M         ,7.2,TB 1/5    , LEO/ISS
-05/15/12 ,Ariane 5 ECA     ,L562    ,VA206/JCSAT13/VINASAT2,7.5,KO 3      , GTO
-05/17/12 ,Soyuz U          ,1788,Kobalt M              ,6.7,PL 16/2   , LEO
-05/17/12 ,H-2A-202         ,F21     ,GCOM W1/Kompsat 3     ,        ,TA Y1     , LEO/S
-05/17/12 ,Proton M/Briz M  ,P377    ,Nimiq 6               ,4.5,TB 81/24  , GEO
-05/22/12 ,Falcon 9         ,F9-3    ,Dragon C2+            , 7.0?   ,CC 40     , LEO/ISS
-05/23/12 ,Safir            ,        ,Fajr?                 , 0.1?   ,SE        ,[FTO][7]
-05/26/12 ,CZ-3B/E          ,CZ3B21  ,Xhongxing 2A          , 5.4?   ,XC 2      , GTO
-05/29/12 ,CZ-4C            ,CZ4C8   ,Yaogan 15             , 2.8?   ,TY 2      , LEO/S
-06/01/12 ,Zenit 3SL/DMSL   ,SL33    ,Intelsat 19           ,5.6,PO OLP    , GTO
-06/13/12 ,Pegasus XL       ,P41     ,NuStar                ,0.35,KW        , LEO
-06/16/12 ,CZ-2F/G          ,CZ2F10  ,Shenzhou 9            ,7.7,JQ SLS-R  , LEO
-06/20/12 ,Atlas 5          ,AV023   ,NRO-L38               ,        ,CC 41     , GTO?
-06/29/12 ,Delta 4H         ,D360?   ,NRO-L15               ,        ,CC 37B    , GTO?
-07/06/12 ,Ariane 5 ECA     ,L563    ,VA207/Echostar 17/MSG ,8.13,KO 3      , GTO
-07/09/12 ,Proton M/Briz M  ,P378    ,SES 5                 ,6.01,TB 81/24  , GTO
-07/15/12 ,Soyuz FG         ,1788,Soyuz TMA-05M         ,7.2,TB 1/5    , LEO/ISS
-07/21/12 ,H-2B             ,H2BF3   ,HTV-3(Kounotori)      ,15.9,TA Y2     , LEO/ISS
-07/22/12 ,Soyuz FG/Fregat  ,1789,Konopus-B/MKA-FKI/+3sa,        ,TB 31/6   , LEO/S
-07/25/12 ,CZ-3C            ,CZ3C9   ,Tianlian-1 (3)        ,2.462,XC 2      , GTO+
-07/28/12 ,Rokot/Briz KM    ,        ,Kosmos 2481/2xGonets M,        ,PL 133/3  , LEO
-08/01/12 ,Soyuz U          ,1790,Progress M-16M        ,7.1,TB 1/5    , LEO/ISS
-08/02/12 ,Ariane 5 ECA     ,VA208   ,Intelsat 20/Hylas 2   ,9.4,KO 3      , GTO
-08/06/12 ,Proton M/Briz M  ,p379    ,Telkom 3/Express MD2  ,2.74,TB 81/24  ,[EEO][2]
-08/19/12 ,Zenit 3SL/DMSL   ,SL49    ,Intelsat 21           ,5.982,PO OLP    , GTO
-08/30/12 ,Atlas 5-401      ,AV032   ,RBSP-A/B (2sats)      ,1.315,CC 41     , EEO
-09/09/12 ,PSLV-CA          ,C21     ,SPOT 6/Proiteres      ,0.727,SR FLP    , LEO/S
-09/13/12 ,Atlas 5-401      ,AV033   ,NROL-36               ,        ,VA 3E     , LEO?
-09/17/12 ,Soyuz 2-1a/Fregat,ST-25   ,Metop B               ,4.085,TB 31/6   , LEO/S
-09/18/12 ,CZ-3B/E          ,CZ3B22  ,Beidou M5/M6          ,~4.0    ,XC 2      , MTO
-09/22/12 ,Safir            ,        ,Fajr?                 , 0.1?   ,SE        ,[FTO][7]
-09/28/12 ,Ariane 5 ECA     ,L565    ,VA209 Astra 2F/GSat 10,9.4,KO 3      , GTO
-09/29/12 ,CZ-2D            ,CZ2D17  ,VRSS 1                ,        ,JQ 4L     , LEO/S
-10/04/12 ,"Delta 4M+4,2     ",D361?   ,GPS 2F-3              ,1.63,CC 37B    , MEO [3]
-10/08/12 ,Falcon 9         ,F9-4    ,Dragon CRS-1          , 7.0?   ,CC 40     ,[LEO/ISS][4]
-10/12/12 ,Soyuz 2-1b/Fregat,VS03    ,"IOV-2/Galileo FM3,4   ",1.4,KO ELS    , MEO
-10/14/12 ,CZ-2C            ,CZ2C37  ,Shijian 9 (2sats)     ,        ,TY 2      , LEO/P
-10/14/12 ,Proton M/Briz M  ,p380    ,Intelsat 23           ,2.7,TB 81/24  , GEO
-10/23/12 ,Soyuz FG         ,1793,Soyuz TMA-06M         ,7.2,TB 31/6   , LEO/ISS
-10/25/12 ,CZ-3C            ,CZ3C10  ,Beidou G6             ,3.8,XC 2      , GTO
-10/31/12 ,Soyuz U          ,1794,Progress M-17M        ,7.1,TB 1/5    , LEO/ISS
-11/02/12 ,Proton M/Briz M  ,p381    ,Yamal 300K/Luch 5B    ,2.79,TB 81/24  , GEO
-11/10/12 ,Ariane 5 ECA     ,L566    ,VA210 Eutlst21B/Star1-,8.24,KO 3      , GTO
-11/14/12 ,Soyuz 2-1a/Fregat,1795,Merdian 6             ,        ,PL 43/3   , EEO/M
-11/18/12 ,CZ-2C            ,CZ2C38  ,Huanjing 1C           ,        ,TY 2      , LEO/S
-11/20/12 ,Proton M/Briz M  ,P382    ,Echostar 16           ,6.65,TB 200/39 , GTO
-11/24/12 ,CZ-4C            ,CZ4C9   ,Yaogan 16             ,        ,JQ 4L     , LEO
-11/27/12 ,CZ-3B/E          ,CZ3B23  ,Zhongxing 12          ,5.0,XC 2      , GTO
-12/02/12 ,Soyuz 2-1a/Fregat,VS04    ,Pleiades 1B           ,0.97,KO ELS    , LEO/S
-12/03/12 ,Zenit 3SL/DMSL   ,SL50    ,Eutelsat 70B          ,5.25,PO OLP    , GTO
-12/08/12 ,Proton M/Briz M  ,P383    ,Yamal 402             ,4.46,TB 200/39 ,[GTO][5]
-12/11/12 ,Atlas 5-501      ,AV0??   ,OTV-3(X37B-1F2)       ,~5.0    ,CC 41     , LEO
-12/12/12 ,Unha (Unha 3)    ,Unha3   ,Kwangmyongsong 3F2    ,0.1,SO        , LEO/S[6]
-12/18/12 ,CZ-2D            ,CZ2D18  ,Gokturk 2             ,0.45,JQ 4L     , LEO/S
-12/19/12 ,Soyuz FG         ,1797,Soyuz TMA-07M         ,7.2,TB 1/5    , LEO/ISS
-12/19/12 ,Ariane 5 ECA     ,L567    ,VA211 Skynet 5D/Mexsat,7.80,KO 3      , GTO
-01/15/13 ,Rokot/Briz KM  ,18,Kosmos 2482-84 (Rodnik,0.675,PL 133/3  , LEO [1a]
-01/27/13 ,H-2A-202       ,  F22,IGS Radar 4/Optical 5 ,        ,TA Y1     , LEO/S
-01/30/13 ,KSLV-1         ,  No.,STSAT-2C              ,0.1,NA        , LEO
-01/31/13 ,Atlas 5-401    ,  AV0,TDRS-K                ,3.454,CC 41     , GTO+
-02/01/13 ,Zenit 3SL/DMSL ,  Z3S,Intelsat 27           ,6.215,PO OLP    ,[FTO][1]
-02/06/13 ,Soyuz 2-1a/Freg,t 179,ST26/6xGlobalstar     ,4.2,TB 31/6   , LEO
-02/07/13 ,Ariane 5 ECA   ,  VA2,Amazonas 3/Azerspace  ,9.265,KO 3      , GTO
-02/11/13 ,Soyuz U        ,180,Progress M-18M        ,7.2,TB 1/5    , LEO/ISS 
-02/11/13 ,Atlas 5-401    ,  AV0,LCDM                  ,2.77,VA 3E     , LEO/S
-02/25/13 ,PSLV-CA        ,  C20,SARAL/Sapphire        ,0.676,SR FLP    , LEO/S
-03/01/13 ,Falcon 9       ,  F9-,Dragon CRS-2          ,        ,CC 40     , LEO/ISS
-03/19/13 ,Atlas 5-401    ,  AV0,SBIRS GEO-2           , 4.5?   ,CC 41     , GTO
-03/26/13 ,Proton M/Briz M,  p38,Satmex 8              ,5.5,TB 200/39 , GTO
-03/28/13 ,Soyuz FG       ,180,Soyuz TMA-08M         ,7.2,TB 1/5    , LEO/ISS
-04/15/13 ,Proton M/Briz M,  p38,Anik G1               ,4.9,TB 200/39 , GTO
-04/19/13 ,Soyuz 2-1a     ,180,BION-M1               ,6.5,TB 31/6   , LEO
-04/21/13 ,Antares 110    ,    A,Cygnus Mass Sim.      ,3.8,WI 0A     , LEO [2]
-04/24/13 ,Soyuz U        ,180,Progress M-19M        ,7.2,TB 1/5    , LEO/ISS 
-04/26/13 ,CZ-2D          ,   Y1,GaoFen 1              ,        ,JQ 43/603 , LEO/S
-04/26/13 ,Soyuz 2-1b/Freg,t 180,Glonass M             ,1.415,PL 43/4   , MEO
-05/01/13 ,CZ-3B/E        ,   Y2,Chinasat 11           ,        ,XC 2      , GTO
-05/07/13 ,Vega           ,  VV0,ProbaV/VNREDSat1/ESTcu,0.255,KO ZLV    , LEO/S
-05/14/13 ,Proton M/Briz M,  p38,Eutelsat 3D           ,5.5,TB 200/39 , GTO
-05/15/13 ,Atlas 5-401    ,  AV0,GPS 2F-4              ,1.54,CC 41     , MEO
-05/25/13 ,"Delta 4M+5,4   ",  D36,WGS 5                 ,5.988,CC 37B    , GTO+
-05/28/13 ,Soyuz FG       ,180,Soyuz TMA-09M         ,7.2,TB 1/5    , LEO/ISS
-06/03/13 ,Proton M/Briz M,  p38,SES 6                 ,6.1,TB 200/39 , GTO+
-06/05/13 ,Ariane 5ES     ,  VA2,ATV-4                 ,19.89,KO 3      , LEO/ISS
-06/07/13 ,Soyuz 2-1b     ,180,Persona               ,6.5,PL 43/4   , LEO
-06/11/13 ,CZ-2F          ,  CZ2,Shenzhou 10           ,7.7,JQ 43/921 , LEO
-06/25/13 ,Soyuz 2-1b     ,180,Resurs P1             ,6.58,TB 31/6   , LEO
-06/25/13 ,Soyuz 2-1b/Freg,t 180,VS05/O3b F1           ,2.8,KO ELS    , MEO
-06/27/13 ,Strela         ,2,Kondor                ,~1.0    ,TB 175/59 , LEO
-06/28/13 ,Pegasus XL     ,  P42,IRIS                  ,0.18,Va L1011  , LEO/S
-07/01/13 ,PSLV-XL        ,  C22,IRNSS-1A              ,1.425,SR FLP    , GTO
-07/02/13 ,Proton M/DM-03 ,  p38,3xGlonass M           ,4.245,TB 81/24  ,[FTO][3]
-07/15/13 ,CZ-2C          ,  CZ2,Shijian 11-05         ,        ,JQ 43/603 , LEO/S
-07/19/13 ,Atlas 5-551    ,  AV0,MUOS 2                ,~6.80   ,CC 41     , GTO+
-07/19/13 ,CZ-4C          ,  CZ4,"SH 15, SW 7, CX 3     ",        ,TY 9      , LEO/S
-07/25/13 ,Ariane 5 ECA   ,  VA2,Alphasat XL/Insat 3D  ,8.77,KO 3      , GTO
-07/27/13 ,Soyuz U        ,180,Progress M-20M        ,7.2,TB 31/6   , LEO/ISS
-08/03/13 ,H-2B           ,  H2B,HTV-4                 ,15.9,TA Y2     , LEO/ISS
-08/08/13 ,"Delta 4M+5,4   ",  D36,WGS 6                 ,5.988,CC 37B    , GTO+
-08/22/13 ,Dnepr          ,18,Kompsat 5             ,1.40,DO 370/13 , LEO/S
-08/28/13 ,Delta 4H       ,  D36,NROL 65               ,17.0 ?  ,VA 6      , LEO/S
-08/29/13 ,Ariane 5 ECA   ,  VA2,Eutelsat 25B/Gsat 7   ,8.96,KO 3      , GTO
-08/31/13 ,Zenit 3SLB/DMSL,     ,Amos 4                ,3.5,TB 45/1   , GTO
-09/01/13 ,CZ-4C          ,  CZ4,Yaogan Weixing 17     ,        ,JQ 43/603 , LEO
-09/07/13 ,Minotaur 5     ,  MT5,LADEE                 ,0.38,WI 0B     , EEO [4]
-09/11/13 ,Rokot/Briz KM  ,19,3xGonets-M            ,0.84,PL 133/3  , LEO 
-09/14/13 ,Epsilon        ,1,Sprint A              ,0.35,KA M5     , LEO
-09/18/13 ,Atlas 5-531    ,  AV0,AEHF 3                ,6.169,CC 41     , GTO+
-09/18/13 ,Antares 110    ,  A2 ,Cygnus ORB-D1         ,4.127,WI 0A     , LEO/ISS
-09/23/13 ,CZ-4C          ,  CZ4,Fengyun 3C            ,2.45,TY 9      , LEO/S
-09/25/13 ,Kuaizhou       ,     ,Kuaizhou 1            ,        ,JQ        , LEO/P [5]
-09/25/13 ,Soyuz FG       ,181,Soyuz TMA-10M         ,7.2,TB 1/5    , LEO/ISS
-09/29/13 ,Falcon 9 v1.1  ,  F9-,Cassiope/5Cubesats    ,0.6,VA 4E     , LEO [6]
-09/29/13 ,Proton M/Briz M,  P38,Astra 2E              ,6.02,TB 200/39 , GTO
-10/25/13 ,CZ-4B          ,  CZ4,Shijian 16            ,        ,JQ 43/603 , LEO
-10/25/13 ,Proton M/Briz M,  P39,Sirius FM 6           ,6.00,TB 200/39 , GTO
-10/29/13 ,CZ-2C          ,  CZ2,Yaogan 18             ,        ,TY 9      , LEO/S
-11/05/13 ,PSLV-XL        ,  C25,Mars Orbiter Mission  ,1.337,SR FLP    , EEO [7]
-11/07/13 ,Soyuz FG       ,181,Soyuz TMA-11M         ,7.2,TB 1/5    , LEO/ISS
-11/11/13 ,Proton M/Briz M,  P39,Raduga 1M             ,2.3,TB 81/24  , GTO+
-11/18/13 ,Atlas 5-401    ,  AV0,MAVEN                 ,2.54,CC 41     , HCO
-11/20/13 ,Minotaur 1     ,  MT1,ORS 3                 ,0.40,WI 0B     , LEO
-11/20/13 ,CZ-4C          ,  CZ4,Yaogan 19             ,~1.10   ,TY 9      , LEO/S
-11/21/13 ,Dnepr          ,19,Multipayload          ,        ,DO 370/13 , LEO/S
-11/22/13 ,Rokot/Briz KM  ,20,3xSwarm               ,1.419,PL 133/3  , LEO/S  
-11/25/13 ,CZ-2D          ,  CZ2,SY 5                  ,        ,JQ 43/603 , LEO/S
-11/25/13 ,Soyuz U        ,181,Progress M-21M        ,7.2,TB 31/6   , LEO/ISS
-12/01/13 ,CZ-3B          ,  CZ3,Chang'e 3             ,1.34,XC 2      , EEO [8]
-12/03/13 ,Falcon 9 v1.1  ,  F9-,SES 8                 ,3.183,CC 40     , GTO+[9]
-12/06/13 ,Atlas 5-501    ,  AV0,NROL 39               ,        ,VA 3E     , LEO/R
-12/08/13 ,Proton M/Briz M,  P39,Inmarsat 5 F1         ,6.10,TB 200/39 , GTO+
-12/09/13 ,CZ-4B          ,  CZ4,CBERS-3               ,2.1,TY 9      ,[FTO][10]
-12/19/13 ,Soyuz 2.1b/Freg,t 181,VS06/Gaia             ,2.034,KO ELS    , EEO 
-12/20/13 ,CZ-3B/E        ,  CZ3,Tupac Katari          ,5.1,XC 2      , GTO 
-12/25/13 ,Rokot/Briz KM  ,21,Kosmos 2488-90 (Rodnik,0.675,PL 133/3  , LEO
-12/26/13 ,Proton M/Briz M,  P39,Express AM5           ,3.2,TB 81/24  , GEO 
-12/28/13 ,Soyuz 2-1v/Volg,1,Aist                  , 0.2?   ,PL 43/4   , LEO
+date,vehicle,id,payload,mass(t),site,orbit
+09/14/13,Epsilon        ,1,Sprint A              ,0.35,KA M5, LEO
+12/28/13,Soyuz 2-1v/Volg,1,Aist                  ,0.2?,PL 43/4, LEO
+02/02/09,Safir   ,2,Omid (2),0.025,SE        , LEO
+06/27/13,Strela         ,2,Kondor                ,~1.0,TB 175/59, LEO
+06/15/11,Safir             ,3,Rassad          ,0.015,SE        , LEO
+05/19/09,Minotaur,8,TacSat 3,0.4,WI 0-B, LEO
+07/29/09,Dnepr   ,13,"6 sats (Dubaisat 1,",0.423,TB 109/95, LEO/S
+08/17/11,Dnepr             ,17,Multipayload    ,          ,DO        , LEO/S
+01/15/13,Rokot/Briz KM  ,18,Kosmos 2482-84 (Rodnik,0.675,PL 133/3,LEO [1a]
+08/22/13,Dnepr          ,18,Kompsat 5,1.40,DO 370/13, LEO/S
+09/11/13,Rokot/Briz KM  ,19,3xGonets-M,0.84,PL 133/3, LEO 
+11/21/13,Dnepr          ,19,Multipayload          ,        ,DO 370/13, LEO/S
+11/22/13,Rokot/Briz KM  ,20,3xSwarm,1.419,PL 133/3, LEO/S  
+12/25/13,Rokot/Briz KM  ,21,Kosmos 2488-90 (Rodnik,0.675,PL 133/3, LEO
+02/11/13,Soyuz U        ,180,Progress M-18M,7.2,TB 1/5, LEO/ISS 
+03/28/13,Soyuz FG       ,180,Soyuz TMA-08M,7.2,TB 1/5, LEO/ISS
+04/19/13,Soyuz 2-1a,180,BION-M1,6.5,TB 31/6, LEO
+04/24/13,Soyuz U        ,180,Progress M-19M,7.2,TB 1/5, LEO/ISS 
+05/28/13,Soyuz FG       ,180,Soyuz TMA-09M,7.2,TB 1/5, LEO/ISS
+06/07/13,Soyuz 2-1b,180,Persona               ,6.5,PL 43/4, LEO
+06/25/13,Soyuz 2-1b,180,Resurs P1,6.58,TB 31/6, LEO
+07/27/13,Soyuz U        ,180,Progress M-20M,7.2,TB 31/6, LEO/ISS
+09/25/13,Soyuz FG       ,181,Soyuz TMA-10M,7.2,TB 1/5, LEO/ISS
+11/07/13,Soyuz FG       ,181,Soyuz TMA-11M,7.2,TB 1/5, LEO/ISS
+11/25/13,Soyuz U        ,181,Progress M-21M,7.2,TB 31/6, LEO/ISS
+02/10/09,Soyuz U ,1740,Progress M66/ISS32P,7.25,TB 31/6, LEO/ISS
+03/26/09,Soyuz FG,1741,Soyuz TMA-14 (ISS18S,7.25,TB 1/5, LEO/ISS
+04/29/09,Soyuz-U ,1742,Kosmos 2450 (Kobal't,        ,PL        , LEO
+05/07/09,Soyuz-U ,1743,Progress M-02M/ISS33,7.12,TB 5/1, LEO/ISS
+05/21/09,Soyuz 2-,1744,Meridan 2,        ,PL 43/4,[EEO] (3)
+05/27/09,Soyuz FG,1745,Soyuz TMA 15,7.25,TB 1/5, LEO/ISS
+07/24/09,Soyuz U ,1746,Progress M-67 (ISS 3,7.285,TB 1/5, LEO/ISS
+09/17/09,Soyuz 2-,1747,Meteor M1 +6microsat,2.7,TB 31/6, LEO/S
+09/30/09,Soyuz-FG,1748,Soyuz TMA-16,7.25,TB 1/5, LEO/ISS
+10/15/09,Soyuz U ,1749,Progress M-03M,7.2,TB 5/1, LEO/ISS
+11/10/09,Soyuz U ,1750,Progress M-MRM2,7.1,TB 1/5, LEO/ISS
+11/20/09,Soyuz U ,1751,Kosmos 2455 (Lotos-s,6.9?,PL 16/2, LEO
+12/20/09,Soyuz FG,1752,Soyuz TMA-17,7.25,TB 1/5, LEO/ISS
+02/03/10,Soyuz-U         ,1753,Progres,7.4,TB 1/5, LEO/ISS
+04/02/10,Soyuz-FG        ,1754,Soyuz T,7.2,TB 1/5, LEO/ISS
+04/16/10,Soyuz-U         ,1755,Kosmos ,         ,PL ??     , LEO
+04/28/10,Soyuz U         ,1756,Progres,7.4,TB 1/5, LEO/ISS
+06/15/10,Soyuz FG        ,1757,Soyuz T,7.2,TB 1/5, LEO/ISS
+06/30/10,Soyuz U         ,1758,Progres,7.25,TB 1/5, LEO/ISS
+09/10/10,Soyuz U         ,1759,Progres,7.16,TB 31/6, LEO/ISS
+09/30/10,Molniya-M       ,1760,Kosmos ,2.4,PL 16/2,EEO/M [7]
+10/07/10,Soyuz FG        ,1761,Soyuz T,7.2,TB 1/5, LEO/ISS
+10/19/10,Soyuz 2-1a/Frega,1762,ST22/6x,4.2,TB 31/6, LEO
+10/27/10,Soyuz U         ,1763,Progres,7.29,TB 1/5, LEO/ISS
+11/02/10,Soyuz 2-1a/Frega,1764,Meridia,~2.0,PL 43/4, EEO/M
+12/15/10,Soyuz FG        ,1765,Soyuz T,7.2,TB 1/5, LEO/ISS
+01/28/11,Soyuz-U           ,1766,Progress M-09M,7.3,TB 1/5, LEO/ISS
+02/26/11,Soyuz 2-1b/Fregat,1767,Glonass-K       ,0.94,PL 43/4, MEO
+04/04/11,Soyuz-FG          ,1768,Soyuz TMA-21,7.3,TB 1/5, LEO/ISS
+04/27/11,Soyuz-U           ,1769,Progress M-10M,7.3,TB 1/5, LEO/ISS
+05/04/11,Soyuz 2-1A/Fregat,1770,Meridian        ,          ,PL 43/4, EEO/M
+06/07/11,Soyuz FG          ,1771,Soyuz TMA-02M,7.2,TB 1/5, LEO/ISS
+06/21/11,Soyuz-U           ,1772,Progress M-11M,7.3,TB 1/5, LEO/ISS
+06/27/11,Soyuz-U           ,1773,Kosmos 2472 (Kob,          ,PL 16/2, LEO
+08/24/11,Soyuz U           ,1775,Progress M-12M,7.3,TB 1/5,[FTO][7]
+10/02/11,Soyuz 2-1b/Fregat,1776,Glonass M       ,1.414,PL 43/4, MEO
+10/21/11,Soyuz 2-1b/Fregat,1777,VS-01/2xGalileo,1.4,KO SLS    , MEO
+10/30/11,Soyuz U           ,1778,Progress M-13M (,7.3,TB 1/5, LEO/ISS
+11/14/11,Soyuz FG          ,1779,Soyuz TMA-22,7.2,TB 1/5, LEO/ISS
+11/27/11,Soyuz 2-1B/Fregat,1780,Glonass-M       ,1.414,PL 43/4, MEO
+12/17/11,Soyuz 2-1a/Fregat,1781,VS-02/6sats,2.1,KO SLS    , LEO/S
+12/21/11,Soyuz FG          ,1782,Soyuz TMA-03M,7.2,TB 1/5, LEO/ISS
+12/23/11,Soyuz 2-1b/Fregat,1783,Meridian        ,          ,PL 43/4,[FTO][12]
+12/28/11,Soyuz 2-1a/Fregat,1784,ST24/6xGlobalsta,4.2,TB 31/6, LEO
+01/25/12,Soyuz U          ,1785,Progress M-14M,7.2,TB 1/5, LEO/ISS
+04/20/12,Soyuz U          ,1786,Progress M-15M,7.2,TB 31/6, LEO/ISS
+05/15/12,Soyuz FG         ,1787,Soyuz TMA-04M,7.2,TB 1/5, LEO/ISS
+05/17/12,Soyuz U          ,1788,Kobalt M              ,6.7,PL 16/2, LEO
+07/15/12,Soyuz FG         ,1788,Soyuz TMA-05M,7.2,TB 1/5, LEO/ISS
+07/22/12,Soyuz FG/Fregat  ,1789,Konopus-B/MKA-FKI/+3sa,        ,TB 31/6, LEO/S
+08/01/12,Soyuz U          ,1790,Progress M-16M,7.1,TB 1/5, LEO/ISS
+10/23/12,Soyuz FG         ,1793,Soyuz TMA-06M,7.2,TB 31/6, LEO/ISS
+10/31/12,Soyuz U          ,1794,Progress M-17M,7.1,TB 1/5, LEO/ISS
+11/14/12,Soyuz 2-1a/Fregat,1795,Merdian 6,        ,PL 43/3, EEO/M
+12/19/12,Soyuz FG         ,1797,Soyuz TMA-07M,7.2,TB 1/5, LEO/ISS
+08/31/13,Zenit 3SLB/DMSL,     ,Amos 4,3.5,TB 45/1, GTO
+09/25/13,Kuaizhou       ,     ,Kuaizhou 1,        ,JQ        ,LEO/P [5]
+01/30/09,Tsyklon ,       ,Koronas-Photon      ,1.92,PL 32/2, LEO
+03/15/09,STS/Disc,       ,STS-119/ISS-15A,120.86,KC 39A, LEO/ISS
+03/17/09,Rokot/Br,       ,GOCE                ,1.10,PL 133/3, LEO/S
+04/05/09,Unha 2 (,       ,Kwangmyongsong 2,        ,MU        ,[FTO] (2)
+05/11/09,STS/Atla,       ,STS-125/HST-SM04,119.82,KC 39A, LEO
+07/06/09,Rokot/Br,       ,Kosmos 2451-53,0.675,PL 133/3, LEO
+07/15/09,STS/Ende,       ,STS-127/ISS 2J/A,120.00,KC 39A, LEO/ISS
+07/21/09,Kosmos 3,       ,Parus/Sterkh 1,0.98,PL 132/1, LEO
+08/29/09,STS/Disc,       ,STS-128/ISS 17A/MLPM,121.42,KC 39A, LEO/ISS
+11/02/09,Rokot/Br,       ,SMOS/PROBA-2,0.695,PL 133/3, LEO/S
+11/16/09,STS-Atla,       ,STS-129/ISS-ULF3,120.00,KC 39A, LEO/ISS
+04/27/10,Kosmos 3M,       ,Kosmos ,         ,PL 132/1, LEO
+06/02/10,Rokot/Briz KM   ,       ,Servis ,0.9,PL 133/3, LEO/S
+06/22/10,Shavit-2,       ,Ofek 9,0.30,PA        , LEO
+09/08/10,Rokot/Briz KM   ,       ,Gonets ,0.84,PL 133/3, LEO
+02/01/11,Rokot/Briz KM     ,       ,GEO-IK-2-11,          ,PL 133/3,[LEO][1]
+11/08/11,Zenit 2SB,       ,Phobos-Grunt    ,13.15,TB 45/1,LEO [10]
+05/23/12,Safir            ,        ,Fajr?                 ,0.1?,SE        ,[FTO][7]
+07/28/12,Rokot/Briz KM    ,        ,Kosmos 2481/2xGonets M,        ,PL 133/3, LEO
+09/22/12,Safir            ,        ,Fajr?                 ,0.1?,SE        ,[FTO][7]
+04/21/13,Antares 110,    A,Cygnus Mass Sim.      ,3.8,WI 0A,LEO [2]
+01/30/13,KSLV-1,  No.,STSAT-2C,0.1,NA        , LEO
+09/18/13,Antares 110,A2,Cygnus ORB-D1,4.127,WI 0A, LEO/ISS
+02/12/09,Ariane 5,A545,V187/Hotbird 10/NSS,7.422,KO 3, GTO
+05/14/09,Ariane 5,A546,V188/Herschel/Plank,5.32,KO 3, HTO
+07/01/09,Ariane 5,A547,V189/TerreStar 1,6.91,KO 3, GTO
+08/21/09,Ariane 5,A548,V190/JCSAT 12/Optus,4.5,KO 3, GTO
+10/01/09,Ariane 5,A549,V191/Amazonas 2/GMS,8.0,KO 3, GTO
+10/29/09,Ariane 5,A550,V-192/NSS 12/Thor 6,8.675,KO 3, GTO
+12/18/09,Ariane 5,A551,V193/Helios 2B,4.2,KO 3, LEO/S
+10/28/10,Ariane 5-ECA,A555,V197/W3,7.43,KO 3, GTO
+11/26/10,Ariane 5 ECA,A556,V198/In,8.08,KO 3, GTO
+12/29/10,Ariane 5 ECA,A557,V199/Hi,6 8.17,KO 3, GTO
+01/31/13,Atlas 5-401,AV0,TDRS-K                ,3.454,CC 41, GTO+
+02/11/13,Atlas 5-401,AV0,LCDM                  ,2.77,VA 3E, LEO/S
+03/19/13,Atlas 5-401,AV0,SBIRS GEO-2,4.5?,CC 41, GTO
+05/15/13,Atlas 5-401,AV0,GPS 2F-4,1.54,CC 41, MEO
+07/19/13,Atlas 5-551,AV0,MUOS 2,~6.80,CC 41, GTO+
+09/18/13,Atlas 5-531,AV0,AEHF 3,6.169,CC 41, GTO+
+11/18/13,Atlas 5-401,AV0,MAVEN                 ,2.54,CC 41, HCO
+12/06/13,Atlas 5-501,AV0,NROL 39,        ,VA 3E, LEO/R
+12/11/12,Atlas 5-501,AV0??,OTV-3(X37B-1F2),~5.0,CC 41, LEO
+04/22/10,Atlas 5-501,AV012,OTV (X-,4.99,CC 41, LEO
+04/04/09,Atlas 5-,AV016,WGS-2,5.987,CC 41, GTO+
+10/18/09,Atlas 5-,AV017,DMSP F18,1.2,VA 3E, LEO/S
+09/08/09,Atlas 5-,AV018,PAN                 ,        ,CC 41, GTO+
+08/14/10,Atlas 5-531,AV019,AEHF1,6.17,CC 41, GTO+
+06/18/09,Atlas 5-,AV020,LRO/LCROSS          ,2.81,CC 41, HTO
+02/11/10,Atlas 5-401,AV021,SDO (NA,3.1,CC 41, GTO
+05/07/11,Atlas 5-401,AV022,SBIRS GEO1,4.83,CC 41, GTO
+06/20/12,Atlas 5,AV023,NRO-L38,        ,CC 41, GTO?
+11/23/09,Atlas 5-,AV024,Intelsat 14,5.614,CC 41, GTO+
+09/21/10,Atlas 5-501,AV025,NROL-41,         ,VA 3E, LEO
+03/05/11,Atlas 5-501,AV026,X-37B OTV-2,~5.3,CC 41, LEO
+04/15/11,Atlas 5-411,AV027,NROL-34,          ,VA 3E, LEO
+11/26/11,Atlas 5-541,AV028,Mars Science Lab,3.839,CC 41,HCO [11]
+08/05/11,Atlas 5-551,AV029,Juno            ,3.625,CC 41,HCO [4]
+02/24/12,Atlas 5-551,AV030,MUOS 1,6.8,CC 41, GTO
+05/04/12,Atlas 5-531,AV031,AEHF 2,6.17,CC 41, GTO+
+08/30/12,Atlas 5-401,AV032,RBSP-A/B (2sats),1.315,CC 41, EEO
+09/13/12,Atlas 5-401,AV033,NROL-36,        ,VA 3E, LEO?
+07/12/10,PSLV-CA         ,C-15,Cartosa,0.82,SR 1, LEO/S
+04/20/11,PSLV              ,C-16,ResourceSat-2,1.4,SR FLP    , LEO/S
+07/15/11,PSLV-XL           ,C-17,GSAT-12,1.41,SR SLP    , GTO-
+10/12/11,PSLV-CA           ,C-18,Mega-Tropiques  ,1.047,SR FLP    , LEO
+04/20/09,PSLV-CA ,C12,RISAT 2/ANUSAT,0.34,SR SLP    , LEO
+09/23/09,PSLV-CA ,C14,Oceansat 2,~1.0,SR FLP    , LEO/S
+04/26/12,PSLV-XL          ,C19,Risat 1,1.858,SR FLP    , LEO/S
+02/25/13,PSLV-CA        ,C20,SARAL/Sapphire        ,0.676,SR FLP    , LEO/S
+09/09/12,PSLV-CA          ,C21,SPOT 6/Proiteres,0.727,SR FLP    , LEO/S
+07/01/13,PSLV-XL        ,C22,IRNSS-1A,1.425,SR FLP    , GTO
+11/05/13,PSLV-XL        ,C25,Mars Orbiter Mission  ,1.337,SR FLP    ,EEO [7]
+06/11/13,CZ-2F,CZ2,Shenzhou 10,7.7,JQ 43/921, LEO
+07/15/13,CZ-2C,CZ2,Shijian 11-05,        ,JQ 43/603, LEO/S
+10/29/13,CZ-2C,CZ2,Yaogan 18,        ,TY 9, LEO/S
+11/25/13,CZ-2D,CZ2,SY 5,        ,JQ 43/603, LEO/S
+04/22/09,CZ-2C,CZ2-32,Yaogan 6,        ,TY 1, LEO/S
+11/12/09,CZ-2C,CZ2-33,Shijian 11-01,        ,JQ 4/L, LEO/S
+12/09/09,CZ-2D,CZ2-34,Yaogan 7,        ,JQ 4/L, LEO/S
+07/06/11,CZ-2C,CZ2C33,SJ 11-03,          ,JQ 4L, LEO/S
+07/29/11,CZ-2C,CZ2C34,ShiJian 11-02,          ,JQ 4L, LEO/S
+08/18/11,CZ-2C,CZ2C35,ShiJian 11-04,          ,JQ 4L,[FTO][6]
+11/29/11,CZ-2C,CZ2C36,Yaogan 13,          ,TY 2, LEO/S
+10/14/12,CZ-2C,CZ2C37,Shijian 9 (2sats),        ,TY 2, LEO/P
+11/18/12,CZ-2C,CZ2C38,Huanjing 1C,        ,TY 2, LEO/S
+06/15/10,CZ-2D,CZ2D12,SJ-12,         ,JQ 4/L, LEO/S
+08/24/10,CZ-2D,CZ2D13,Tianhui,         ,JQ 4/L, LEO/S
+09/22/10,CZ-2D,CZ2D14,Yaogan ,         ,JQ 4/L, LEO/S
+11/20/11,CZ-2D,CZ2D15,Chuangxin 1-03/S,          ,JQ SLS L  , LEO/S
+05/06/12,CZ-2D,CZ2D16,Tianhui I-02,        ,JQ 4L, LEO/S
+09/29/12,CZ-2D,CZ2D17,VRSS 1,        ,JQ 4L, LEO/S
+12/18/12,CZ-2D,CZ2D18,Gokturk 2,0.45,JQ 4L, LEO/S
+06/16/12,CZ-2F/G,CZ2F10,Shenzhou 9,7.7,JQ SLS-R  , LEO
+10/31/11,CZ-2F,CZ2F8,Shenzhou 8,8.08,JQ SLS R  , LEO
+09/29/11,CZ-2FT1,CZ2FT1,Tiangong 1,8.5,JQ SLS R  , LEO
+12/01/13,CZ-3B,CZ3,Chang'e 3,1.34,XC 2,EEO [8]
+12/20/13,CZ-3B/E,CZ3,Tupac Katari          ,5.1,XC 2, GTO 
+07/31/10,CZ-3A,CZ3A17,Beidou ,         ,XC 3, GTO/i
+11/24/10,CZ-3A,CZ3A18,Zhongxi,         ,XC 3, GTO+
+12/17/10,CZ-3A,CZ3A19,Beidou ,         ,XC 3, GTO/i
+04/09/11,CZ-3A,CZ3A20,Beidou 8,          ,XC 3, GTO/i
+07/26/11,CZ-3A,CZ3A21,Beidou 9 (2-I4),          ,XC 3, GTO/i
+12/01/11,CZ-3A,CZ3A22,Beidou 10 (2-I5),          ,XC 3, GTO/i
+01/13/12,CZ-3A,CZ3A23,Fengyun 2-07(F),        ,XC 3, GTO
+08/31/09,CZ-3B,CZ3B12,Palapa D1,4.1,XC 2,[EEO] (5)
+09/04/10,CZ-3B,CZ3B13,Chinasa,~5.00,XC 2, GTO+
+06/20/11,CZ-3B,CZ3B14,Zhongxing 10,~5.1,XC 2, GTO+
+08/11/11,CZ-3B,CZ3B15,Paksat 1R,4.99,XC 2, GTO+
+09/18/11,CZ-3B,CZ3B16,Chinasat 1A,5.2,XC 2, GTO
+10/07/11,CZ-3B,CZ3B17,W3C,5.4,XC 2, GTO
+12/17/11,CZ-3B,CZ3B18,NigComSat 1R,5.15,XC 2, GTO
+03/31/12,CZ-3B/E,CZ3B19,Apstar 7,5.054,XC 2, GTO
+04/30/12,CZ-3B,CZ3B20,Compass M3/M4,~4.0,XC 2, MTO
+05/26/12,CZ-3B/E,CZ3B21,Xhongxing 2A,5.4?,XC 2, GTO
+09/18/12,CZ-3B/E,CZ3B22,Beidou M5/M6,~4.0,XC 2, MTO
+11/27/12,CZ-3B/E,CZ3B23,Zhongxing 12,5.0,XC 2, GTO
+10/25/12,CZ-3C,CZ3C10,Beidou G6,3.8,XC 2, GTO
+04/14/09,CZ-3C,CZ3C2,Beidou-G2,3.1?,XC 2?, GTO
+01/16/10,CZ-3C,CZ3C3,Beidou ,         ,XC 2, GTO
+06/02/10,CZ-3C,CZ3C4,Beidou ,         ,XC 2, GTO
+10/01/10,CZ-3C,CZ3C5,Chang'e,2.5,XC 2,HTO [8]
+10/31/10,CZ-3C,CZ3C6,Beidou ,         ,XC 2, GTO
+07/11/11,CZ-3C,CZ3C7,TL I-01,          ,XC 2, GTO/+
+02/24/12,CZ-3C,CZ3C8,Beidou 11 (2G5),3.8,XC 2, GTO
+07/25/12,CZ-3C,CZ3C9,Tianlian-1 (3),2.462,XC 2, GTO+
+07/19/13,CZ-4C,CZ4,"SH 15, SW 7, CX 3",        ,TY 9, LEO/S
+09/01/13,CZ-4C,CZ4,Yaogan Weixing 17,        ,JQ 43/603, LEO
+09/23/13,CZ-4C,CZ4,Fengyun 3C,2.45,TY 9, LEO/S
+10/25/13,CZ-4B,CZ4,Shijian 16,        ,JQ 43/603, LEO
+11/20/13,CZ-4C,CZ4,Yaogan 19,~1.10,TY 9, LEO/S
+12/09/13,CZ-4B,CZ4,CBERS-3,2.1,TY 9,[FTO][10]
+12/15/09,CZ-4C,CZ4-18,Yaogan 8,1.04,TY 2, LEO/S
+08/15/11,CZ-4B,CZ4B13,Haiyang 2,          ,TY 2, LEO/S
+11/09/11,CZ-4B,CZ4B14,Yaogan 12,          ,TY 2, LEO/S
+12/22/11,CZ-4B,CZ4B15,Ziyuan I-02C,2.1,TY 2, LEO/S
+01/09/12,CZ-4B,CZ4B16,Ziyuan 3,2.65,TY 2, LEO/S
+10/06/10,CZ-4B,CZ4B17,Shijian,~2.0,TY 2, LEO/S
+05/10/12,CZ-4B,CZ4B17,Yaogan 14/Tiantuo 1,        ,TY 2, LEO/S
+03/05/10,CZ-4C,CZ4C6,Yaogan ,2.8?,JQ 4L, LEO
+08/09/10,CZ-4C,CZ4C7,Yaogan ,2.7?,TY 2, LEO/S
+11/04/10,CZ-4C,CZ4C8,FY-3B,2.3,TY 2, LEO/S
+05/29/12,CZ-4C,CZ4C8,Yaogan 15,2.8?,TY 2, LEO/S
+11/24/12,CZ-4C,CZ4C9,Yaogan 16,        ,JQ 4L, LEO
+04/08/10,Dnepr           ,D-14,CryoSat,0.72,TB 109/95, LEO/P
+06/15/10,Dnepr           ,D-15,Prisma/,         ,DO        , LEO
+06/21/10,Dnepr           ,D-16,TanDEM-,1.35,TB 109/95, LEO/S
+01/18/09,Delta 4H,D337,NRO L26,6.0?,CC 37B, GEO?
+02/06/09,Delta 2-,D338,NOAA-N Prime        ,1.44,VA 2W, LEO/S
+03/07/09,Delta 2-,D339,Kepler              ,1.05,CC 17B, HCO
+03/24/09,Delta 2-,D340,GPS 2R-20(M),2.059,CC 17A, MTO
+05/05/09,Delta 2-,D341,STSS-ATRR           ,        ,VA 2W, LEO/P
+06/27/09,Delta 4M,D342,GOES O              ,3.21,CC 37B, GTO+
+08/17/09,Delta 2-,D343,GPS 2R-21(M),2.059,CC 17A, MTO
+09/25/09,Delta 2-,D344,STSS Demo           ,2.244,CC 17B, LEO
+10/08/09,Delta 2-,D345,Worldview 2,2.615,VA 2W, LEO/S
+12/06/09,Delta 4M,D346,WGS-3,6.0,CC 37B, GTO+
+12/14/09,Delta 2-,D347,WISE                ,0.674,VA 2W, LEO/S
+03/04/10,"Delta 4M+4,2",D348,GOES P ,3.24,CC37B, GTO+
+05/28/10,"Delta 4M+4,2",D349,GPS 2F-,1.63,CC 37B,MEO [3]
+11/06/10,Delta 2-7420-10,D350,COSMO-S,1.9,VA 2W, LEO/S
+11/21/10,Delta 4 Heavy,D351,NROL 32,         ,CC 37B, GEO?
+01/20/11,Delta 4H,D352,NRO L49,15.0?,VA 6, LEO/S
+03/11/11,"Delta 4M+4,2",D353,NROL-27,          ,CC 37B, GEO?
+06/10/11,Delta 2-7320,D354,SAC-D/Aquarius  ,1.35,VA 2W, LEO/S
+07/16/11,"Delta 4M+4,2",D355,GPS 2F-2,1.542,CC 37B, MEO
+09/10/11,Delta 2-7920H,D356,GRAIL A/B       ,0.614,CC 17B,EEO [8]
+10/28/11,Delta 2-7920-10,D357,NPP             ,1.97,V 2W, LEO/S
+01/20/12,"Delta 4M+5,4",D358?,WGS 4,5.988,CC 37B, GTO+
+04/03/12,"Delta 4M+5,2",D359?,NROL-25,        ,VA 6, LEO/r
+05/25/13,"Delta 4M+5,4",D36,WGS 5,5.988,CC 37B, GTO+
+08/08/13,"Delta 4M+5,4",D36,WGS 6,5.988,CC 37B, GTO+
+08/28/13,Delta 4H,D36,NROL 65,17.0 ?,VA 6, LEO/S
+06/29/12,Delta 4H,D360?,NRO-L15,        ,CC 37B, GTO?
+10/04/12,"Delta 4M+4,2",D361?,GPS 2F-3,1.63,CC 37B,MEO [3]
+02/03/12,Safir            ,ERS2002,Navid-e Elm-o Sanat   ,0.05,SE        , LEO
+01/22/11,H-2B,F02,HTV-2,16.0,TA 2, LEO/ISS
+12/25/10,GSLV Mk1,F06,GSAT-5P,2.31,SR 2,[FTO] [11]
+07/14/09,Falcon 1,F1-5,RazakSAT            ,0.18,KW        , LEO
+01/23/09,H-2A-202,F15,GOSAT (Ibuki)       ,1.98,TA Y1, LEO/S
+11/28/09,H-2A-202,F16,IGS Optics 3,        ,TA Y1, LEO/S
+05/20/10,H-2A-202,F17,Akatsuk,0.81,TA 1,HCO [2]
+09/11/10,H2A-202,F18,Michibi,~4.00,TA 1, GTO/i
+09/23/11,H-2A-202,F19,IGS-Optical 4,          ,TA 1, LEO/S
+06/10/10,KSLV-1,F2,STSAT 2,0.099,NA        ,[FTO][5]
+12/12/11,H-2A-202,F20,IGS-Radar 3,          ,TA 1, LEO/S
+05/17/12,H-2A-202,F21,GCOM W1/Kompsat 3,        ,TA Y1, LEO/S
+01/27/13,H-2A-202,F22,IGS Radar 4/Optical 5,        ,TA Y1, LEO/S
+03/01/13,Falcon 9,F9-,Dragon CRS-2,        ,CC 40, LEO/ISS
+09/29/13,Falcon 9 v1.1,F9-,Cassiope/5Cubesats,0.6,VA 4E,LEO [6]
+12/03/13,Falcon 9 v1.1,F9-,SES 8,3.183,CC 40,GTO+[9]
+06/04/10,Falcon 9,F9-1,Dragon ,  ?      ,CC 40,LEO [4]
+12/08/10,Falcon 9,F9-2,Dragon ,~5.5?,CC 40,LEO [10]
+05/22/12,Falcon 9,F9-3,Dragon C2+,7.0?,CC 40, LEO/ISS
+10/08/12,Falcon 9,F9-4,Dragon CRS-1,7.0?,CC 40,[LEO/ISS][4]
+04/15/10,GSLV Mk2,GSLVD3,GSAT 4,2.22,SR 2,[FTO][1]
+08/03/13,H-2B,H2B,HTV-4,15.9,TA Y2, LEO/ISS
+07/21/12,H-2B,H2BF3,HTV-3(Kounotori),15.9,TA Y2, LEO/ISS
+08/25/09,KSLV-1,KSLV1,STSAT-2,0.1,NA        ,[FTO] (4)
+02/16/11,Ariane 5ES,L544,ATV-2,19.7,KO 3, LEO/ISS
+05/21/10,Ariane 5 ECA,L551,V194/As,7.97,KO 3, GTO
+06/26/10,Ariane 5 ECA,L552,V195/Ar,7.4,KO 3, GTO
+03/23/12,Ariane 5 ES,L553,VA205/ATV-3,19.714,KO 3, LEO/ISS
+08/04/10,Ariane 5 ECA,L554,V196/Ra,6.25,KO 3, GTO
+04/22/11,Ariane 5 ECA,L558,VA201/Yahsat1A/I,ND 8.97,KO 3, GTO
+05/20/11,Ariane 5 ECA,L559,VA202/ST2/GSAT 8,8.19,KO 3, GTO
+08/06/11,Ariane 5 ECA,L560,VA203/Astra 1N/B,8.26,KO 3, GTO
+09/21/11,Ariane 5 ECA,L561,VA204/Arabsat 5C,7.85,KO 3, GTO
+05/15/12,Ariane 5 ECA,L562,VA206/JCSAT13/VINASAT2,7.5,KO 3, GTO
+07/06/12,Ariane 5 ECA,L563,VA207/Echostar 17/MSG,8.13,KO 3, GTO
+09/28/12,Ariane 5 ECA,L565,VA209 Astra 2F/GSat 10,9.4,KO 3, GTO
+11/10/12,Ariane 5 ECA,L566,VA210 Eutlst21B/Star1-,8.24,KO 3, GTO
+12/19/12,Ariane 5 ECA,L567,VA211 Skynet 5D/Mexsat,7.80,KO 3, GTO
+10/05/11,Zenit 3SLB/DMSLB,LL-5,Intelsat 18,3.2,TB 45/1, GTO+
+02/26/09,Zenit 3S,LL2,Telstar 11N,4.012,TB 45/1, GTO+
+06/21/09,Zenit 3S,LL3,Measat 3a,2.37,TB 45/1, GTO+
+11/30/09,Zenit 3S,LL4,Intelsat 15,2.484,TB 45/1, GTO+
+11/20/13,Minotaur 1,MT1,ORS 3,0.40,WI 0B, LEO
+06/30/11,Minotaur 1,MT1-10,ORS 1,0.434,WI 0B, LEO
+02/06/11,Minotaur 1,MT1-9,NROL-66,~0.3,VA 8, LEO/S?
+09/26/10,Minotaur 4,MT4-2,SBSS   ,1.03,VA 8,LEO/S [6]
+11/20/10,Minotaur 4,MT4-3,STP S26,0.59,KD 1, LEO/S
+09/27/11,Minotaur 4+,MT4-5,TacSat 4,0.45,KD        ,EEO [9]
+09/07/13,Minotaur 5,MT5,LADEE                 ,0.38,WI 0B,EEO [4]
+04/05/10,STS/Discovery   ,OV103,STS131/,110.0,KC 39A, LEO/ISS
+05/14/10,STS/Atlantis    ,OV104,STS-132,110.0,KC 39A, LEO/ISS
+07/08/11,STS/Atlantis      ,OV104,STS-135/ULF-7,~100.0,KC 39A, LEO/ISS
+02/08/10,STS/Endeavour   ,OV105,STS130/,110.0,KC 39A, LEO/ISS
+02/11/09,Proton M,P342,Express AM44/MD1,3.672,TB 200/39, GEO
+02/28/09,Proton K,P343,Raduga 1-8,2.3,TB 81/24, GEO
+04/03/09,Proton M,P344,Eutelsat W2A,5.9,TB 200/39, GTO
+05/16/09,Proton M,P345,ProtoStar 2,4.00,TB 200/39, GTO+
+06/30/09,Proton M,P346,Sirius FM5,5.82,TB 200/39, GTO+
+08/11/09,Proton M,P347,Asiasat 5,3.76,TB 200/39, GTO+
+09/17/09,Proton M,P348,Nimiq 5,4.745,TB 200/39, GTO+
+11/24/09,Proton M,P349,Eutelsat W7,5.627,TB 200/39, GTO+
+12/14/09,Proton M,P350,3xGlonass M,4.25,TB 81/24, MEO
+12/28/09,Proton M,P351,DirecTV 12,5.90,TB 200/39, GTO+
+01/28/10,Proton M/Briz M ,P352,Raduga ,2.3,TB 81/24, GEO
+02/12/10,Proton M/Briz M ,P353,Intelsa,2.06,TB 200/39, GEO
+03/01/10,Proton M/DM-2,P354,3xGlona,4.5,TB 81/24, MEO
+03/20/10,Proton M/Briz M ,P355,Echosta,6.38,TB 200/39, GTO
+04/24/10,Proton M/Briz M ,P356,SES 1,2.56,TB 200/39, GEO
+06/03/10,Proton M/Briz M ,P357,Badr 5,5.42,TB 200/39, GTO+
+07/10/10,Proton M/Briz M ,P358,Echosta,5.52,TB 200/39, GTO+
+09/02/10,Proton M/DM-2,P359,3xGlona,4.25,TB 81/24, MEO
+10/14/10,Proton M/Briz M ,P360,Sirius ,5.98,TB 81/24, GTO+
+11/14/10,Proton M/Briz M ,P361,Skyterr,5.36,TB 200/39, GTO+
+12/05/10,Proton M/DM-03,P362,3xGlona,4.245,TB 81/24,[FTO] [9]
+12/26/10,Proton M/Briz M ,P363,KA-SAT ,6.15,TB 200/39, GTO+
+05/20/11,Proton M/Briz M   ,P364,Telstar 14R,5.0,TB 200/39, GTO+
+07/15/11,Proton M/Briz M   ,P365,SES-3/Kazsat 2,4.382,TB 200/39,GTO/GEO[3]
+08/17/11,Proton M/Briz M   ,P366,Express AM4,5.775,TB 200/39,[EEO][5]
+09/20/11,Proton M/Briz M   ,P367,Kosmos 2473 (Gar,          ,TB 81/24, GTO
+09/29/11,Proton M/Briz M   ,P368,QuetzSat 1,5.514,TB 200/39, GTO
+10/19/11,Proton M/Briz M   ,P369,ViaSat 1,6.74,TB 200/39, GTO
+11/04/11,Proton M/Briz M   ,P370,3xGlonass-M,4.245,TB 81/24, MEO
+11/25/11,Proton M/Briz M   ,P371,AsiaSat 7,3.813,TB 200/39, GTO+
+12/11/11,Proton M/Briz M   ,P372,Luch 5A/Amos 5,2.73,TB 81/24, GTO+
+02/14/12,Proton M/Briz M  ,P373,SES 4,6.18,TB 200/39, GTO
+03/25/12,Proton M/Briz M  ,P374,Intelsat 22,6.199,TB 200/39, GTO+
+03/30/12,Proton K/DM-2,P375,Kosmos 2479,2.6,TB 81/24, GEO
+04/23/12,Proton M/Briz M  ,P376,Yahsat 1B,6.05,TB 200/39, GTO+
+05/17/12,Proton M/Briz M  ,P377,Nimiq 6,4.5,TB 81/24, GEO
+07/09/12,Proton M/Briz M  ,P378,SES 5,6.01,TB 81/24, GTO
+08/06/12,Proton M/Briz M  ,p379,Telkom 3/Express MD2,2.74,TB 81/24,[EEO][2]
+03/26/13,Proton M/Briz M,p38,Satmex 8,5.5,TB 200/39, GTO
+04/15/13,Proton M/Briz M,p38,Anik G1,4.9,TB 200/39, GTO
+05/14/13,Proton M/Briz M,p38,Eutelsat 3D,5.5,TB 200/39, GTO
+06/03/13,Proton M/Briz M,p38,SES 6,6.1,TB 200/39, GTO+
+07/02/13,Proton M/DM-03,p38,3xGlonass M,4.245,TB 81/24,[FTO][3]
+09/29/13,Proton M/Briz M,P38,Astra 2E,6.02,TB 200/39, GTO
+10/14/12,Proton M/Briz M  ,p380,Intelsat 23,2.7,TB 81/24, GEO
+11/02/12,Proton M/Briz M  ,p381,Yamal 300K/Luch 5B,2.79,TB 81/24, GEO
+11/20/12,Proton M/Briz M  ,P382,Echostar 16,6.65,TB 200/39, GTO
+12/08/12,Proton M/Briz M  ,P383,Yamal 402,4.46,TB 200/39,[GTO][5]
+10/25/13,Proton M/Briz M,P39,Sirius FM 6,6.00,TB 200/39, GTO
+11/11/13,Proton M/Briz M,P39,Raduga 1M,2.3,TB 81/24, GTO+
+12/08/13,Proton M/Briz M,P39,Inmarsat 5 F1,6.10,TB 200/39, GTO+
+12/26/13,Proton M/Briz M,P39,Express AM5,3.2,TB 81/24, GEO 
+06/13/12,Pegasus XL       ,P41,NuStar                ,0.35,KW        , LEO
+06/28/13,Pegasus XL     ,P42,IRIS                  ,0.18,Va L1011, LEO/S
+09/24/11,Zenit 3SL/DM-SL,SL-39,Atlantic Bird 7,4.60,PO OLP    , GTO+
+06/01/12,Zenit 3SL/DMSL,SL33,Intelsat 19,5.6,PO OLP    , GTO
+08/19/12,Zenit 3SL/DMSL,SL49,Intelsat 21,5.982,PO OLP    , GTO
+12/03/12,Zenit 3SL/DMSL,SL50,Eutelsat 70B,5.25,PO OLP    , GTO
+09/17/12,Soyuz 2-1a/Fregat,ST-25,Metop B               ,4.085,TB 31/6, LEO/S
+07/13/11,Soyuz 2-1a/Fregat,ST23,6xGlobalstar-2,3.9,TB 31/6, LEO
+02/24/11,STS/Discovery     ,STS133,ULF-5,~100.0,KC 39A, LEO/ISS
+05/16/11,STS/Endeavour     ,STS134,ULF-6,~100.0,KC 39A, LEO/ISS
+02/06/13,Soyuz 2-1a/Freg,t 179,ST26/6xGlobalstar,4.2,TB 31/6, LEO
+04/26/13,Soyuz 2-1b/Freg,t 180,Glonass M             ,1.415,PL 43/4, MEO
+06/25/13,Soyuz 2-1b/Freg,t 180,VS05/O3b F1,2.8,KO ELS    , MEO
+12/19/13,Soyuz 2.1b/Freg,t 181,VS06/Gaia,2.034,KO ELS    , EEO 
+02/24/09,Taurus X,T8,OCO                 ,0.407,VA 576E,[FTO] (1)
+03/04/11,Taurus XL 3110,T9,Glory           ,0.54,VA 576E,[FTO][2]
+09/10/09,H-2B,TF1,HTV 1,16.0,TA Y2, LEO/ISS
+04/12/12,Unha (Unha 3),Unha3,Kwangmyongsong 3,0.1,SO        ,[FTO][1]
+12/12/12,Unha (Unha 3),Unha3,Kwangmyongsong 3F2,0.1,SO        ,LEO/S[6]
+02/07/13,Ariane 5 ECA,VA2,Amazonas 3/Azerspace,9.265,KO 3, GTO
+06/05/13,Ariane 5ES,VA2,ATV-4,19.89,KO 3, LEO/ISS
+07/25/13,Ariane 5 ECA,VA2,Alphasat XL/Insat 3D,8.77,KO 3, GTO
+08/29/13,Ariane 5 ECA,VA2,Eutelsat 25B/Gsat 7,8.96,KO 3, GTO
+08/02/12,Ariane 5 ECA,VA208,Intelsat 20/Hylas 2,9.4,KO 3, GTO
+10/12/12,Soyuz 2-1b/Fregat,VS03,"IOV-2/Galileo FM3,4",1.4,KO ELS    , MEO
+12/02/12,Soyuz 2-1a/Fregat,VS04,Pleiades 1B,0.97,KO ELS    , LEO/S
+05/07/13,Vega           ,VV0,ProbaV/VNREDSat1/ESTcu,0.255,KO ZLV    , LEO/S
+02/13/12,Vega             ,VV01,LARES/ALMAsat         ,0.42,KO ZLV    , LEO
+04/26/13,CZ-2D,Y1,GaoFen 1,        ,JQ 43/603, LEO/S
+05/01/13,CZ-3B/E,Y2,Chinasat 11,        ,XC 2, GTO
+07/18/11,Zenit 3F/FregatSB,Z2F02,Spektr-R        ,3.66,TB 45/1, EEO
+01/20/11,Zenit 3F/FregatSB,Z3F01,Electro-L       ,1.74,TB 45/1, GEO
+02/01/13,Zenit 3SL/DMSL,Z3S,Intelsat 27,6.215,PO OLP    ,[FTO][1]
+04/20/09,Zenit 3S,Z3SL42,Sircal 1B,3.08,OLP       , GTO+
